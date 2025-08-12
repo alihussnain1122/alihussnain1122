@@ -1,7 +1,4 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://github.com/alihussnain1122/alihussnain1122/blob/main/my%20pic%202.jpg" alt="Banner" width="100%" />
-</p>
 
 <!-- Animated Typing Effect -->
 <p align="center">
