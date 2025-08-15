@@ -3,10 +3,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9d00,100:f2ca00&height=200&section=header&text=Ali%20Hussnain&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<!-- Profile Image -->
+<!-- Profile Image (Circular & Cropped) -->
 <p align="center">
-  <img src="https://github.com/alihussnain1122/alihussnain1122/blob/main/my%20pic%202.jpg" width="150" style="border-radius: 50%;" />
+  <img src="https://github.com/alihussnain1122/alihussnain1122/blob/main/my%20pic%202.jpg?raw=true" 
+       width="150" 
+       style="border-radius: 50%; object-fit: cover; object-position: 0 20%;" />
 </p>
+
 
 <!-- Typing Animation -->
 <p align="center">
@@ -50,7 +53,7 @@
 
 ### 🌐 Connect With Me
 <p align="center">
-<a href="www.linkedin.com/in/ali-hussnain-0ba565280" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://www.linkedin.com/in/ali-hussnain-0ba565280" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="mailto:alihussnain.contact@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 <!-- <a href="https://yourportfolio.com" target="_blank"><img src="https://skillicons.dev/icons?i=wordpress" /></a> -->
 </p>
