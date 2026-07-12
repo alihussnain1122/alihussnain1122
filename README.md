@@ -1,121 +1,145 @@
-<h1 align="center">⚡ Ali Hussnain — Full Stack + AI Systems Developer</h1>
+<h1 align="center">Ali Hussnain</h1>
+<h3 align="center">AI Automation Engineer — building systems that think, act, and scale.</h3>
 
 <p align="center">
   <a href="https://github.com/alihussnain1122">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=F5A623&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer+%7C+AI+%26+Computer+Vision+Developer;Building+Intelligent+Web+Ecosystems;Blending+Code+Creativity+and+Cognition;From+Web+Apps+to+Machine+Intelligence" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=AI+Agents+%26+Voice+Systems;Automation+Infrastructure+%26+SaaS;Backend+Systems+That+Scale;Founder+%40+TechMalba" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/alihussnain1122"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"></a>
-  <a href="https://www.linkedin.com/in/ali-hussnain-0ba565280"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:alihussnain.contact@gmail.com"><img src="https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/alihussnain1122"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://alihussnain.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-View-111827?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:alihussnain.contact@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-238636?style=flat-square" />
 </p>
 
 ---
 
-## 🧭 Who I Am
+## What I Do
 
-A **Full Stack + AI Systems Developer** who transforms logic into living systems.  
-I don’t just build interfaces — I design *intelligence pipelines*.  
-My work stands at the intersection of **Web Engineering**, **AI Modeling**, and **Human Interaction Design**.  
+I build **automation-first products** — systems that replace manual work, handle real users, and run without constant human input.
 
-I’m driven by the idea that **every project should think, adapt, and evolve**.  
-That’s where I live — in the sweet spot between *software and sentience*.
+Not demos. Not clones.
+**Production systems with APIs, queues, agents, and real-world workflows.**
 
----
+* AI voice agents that book appointments
+* SaaS tools replacing expensive subscriptions
+* Automation engines running at scale
 
-## 🧠 What I Do Best
+Currently:
 
-### 💻 Full Stack Engineering
-- Modern architectures: MERN, Next.js, Express, MongoDB  
-- Secure backend systems with authentication, JWT, and REST APIs  
-- Dynamic frontend UIs with motion design (GSAP, Framer Motion, Tailwind)
-
-### 🧬 AI & Machine Learning Integration
-- Deploying trained ML models inside web applications  
-- Building health-based AI predictors (Anemia, Diabetes Detection)  
-- Image recognition & classification with TensorFlow.js, OpenCV, and face-api.js  
-- Data-driven logic with Python APIs and Flask/FastAPI integrations
-
-### 🤖 Computer Vision + Intelligent UX
-- Real-time face recognition (FaceLock System)  
-- Fake news & document authenticity detection with NLP and OpenCV  
-- Seamless AI-assisted UX flows within web applications  
-
-### 🧩 DevOps & Workflow
-- Git-based pipelines, CI/CD, versioning discipline  
-- API-driven modular codebases  
-- Deployment with Vercel, Render, and Docker  
+* Full-Stack Developer (Upwork)
+* Founder — **TechMalba**
+* CS Student — UET Lahore
 
 ---
 
-## 🛠️ Tech Stack Universe
+## Core Expertise
 
-**Frontend**
-> React • Next.js • TypeScript • TailwindCSS • Material UI • GSAP • Framer Motion
-
-**Backend**
-> Node.js • Express.js • MongoDB • JWT • REST APIs • WebSockets (Socket.io)
-
-**AI / ML / CV**
-> Python • TensorFlow.js • OpenCV • Scikit-learn • Face-api.js • Pandas • NumPy
-
-**Tools & Environment**
-> Git • VS Code • Postman • Vercel • Docker • Netlify • Render
+| Domain                   | Focus                                                  |
+| ------------------------ | ------------------------------------------------------ |
+| **AI Systems**           | LLM workflows, voice agents, tool usage, orchestration |
+| **Automation**           | Scraping pipelines, job queues, browser automation     |
+| **Backend Architecture** | APIs, auth systems, real-time infra, scalable services |
+| **Full-Stack Products**  | SaaS apps, dashboards, real-time UX                    |
 
 ---
 
-## 🌟 Signature Projects
+## Selected Work
 
-### 🧠 [HealthAI — Smart Diagnosis System](https://github.com/alihussnain1122)
-> Predicts diseases like **Anemia** and **Diabetes** using ML models + user data.  
-> Integrated blood report parsing, model prediction APIs, and UI result dashboards.
+### 🎙️ AI Voice Appointment Agent
 
-### 🔐 [FaceLock](https://github.com/alihussnain1122)
-> Face Recognition Login using **TensorFlow.js + face-api.js** with password fallback.  
-> Fast, secure, and futuristic — because identity should be *human*.
+**Problem:** Missed calls = lost revenue
+**Solution:** AI voice agent that handles bookings end-to-end
 
-### 🗳️ [Secure Online Voting System](https://github.com/alihussnain1122)
-> End-to-end encrypted voting platform with JWT auth, GridFS image storage, and admin analytics dashboard.  
-> Includes feedback module and downloadable vote certificate.
+* Real-time call handling
+* MongoDB + Google Sheets sync
+* Live admin monitoring
 
-### 💬 [TalkSync](https://github.com/alihussnain1122)
-> Real-time chat app with typing indicators, live sockets, and JWT-secured connections.  
-> Frontend and backend designed for seamless communication flow.
-
-### 🧭 [FakeNews Detector (Extension Project)](https://github.com/alihussnain1122)
-> Browser extension that identifies fake or biased news using NLP models and suggests verified alternate sources.  
-> Bridging AI, journalism, and real-time credibility.
+**Stack:** Python · Groq · WebSockets · Express · React
 
 ---
 
-## 📊 Developer Footprint
+### 📧 Sendium — Email Automation SaaS
+
+**Problem:** $300/mo tools for cold outreach
+**Solution:** Built internal SaaS replacing them completely
+
+* Campaign automation
+* AI-generated personalization
+* Real-time analytics
+
+**Stack:** React · Supabase · Node.js · SMTP · LLMs
+
+---
+
+### ⚙️ Marketplace Automation Engine
+
+**Problem:** Manual FB Marketplace ops don’t scale
+**Solution:** Fully automated multi-account system
+
+* Playwright workers
+* Queue-based architecture
+* Proxy rotation + inbox automation
+
+**Stack:** Node.js · PostgreSQL · Redis · BullMQ · Docker
+
+---
+
+### 💬 Real-Time Chat System
+
+* Live messaging with Socket.IO
+* Group chat + typing indicators
+* JWT-secured sessions
+
+---
+
+## Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
+
+---
+
+## Current Direction
+
+```text
+▸ AI agents for real businesses (booking, support, workflows)
+▸ Scaling internal SaaS (Sendium)
+▸ Automation infrastructure (queues, workers, orchestration)
+▸ Systems that recover, adapt, and run autonomously
+```
+
+---
+
+## Philosophy
+
+I build systems that:
+
+* run in the background
+* recover from failure
+* replace repetitive work
+* scale without breaking
+
+---
+
+## Connect
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=alihussnain1122&theme=react&hide_border=true&border_radius=10">
+  <a href="https://www.linkedin.com/in/alihussnain1122"><img src="https://img.shields.io/badge/LinkedIn-alihussnain1122-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://alihussnain.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:alihussnain.contact@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alihussnain1122&show_icons=true&theme=react&hide_border=true&count_private=true&border_radius=10" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihussnain1122&layout=compact&theme=react&hide_border=true&border_radius=10" height="170">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alihussnain1122&theme=react-dark&hide_border=true&area=true">
-</p>
-
----
-
-## 🌍 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ali-hussnain-0ba565280"><img src="https://img.icons8.com/fluency/48/linkedin.png"/></a>
-  <a href="mailto:alihussnain.contact@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail-new.png"/></a>
-  <a href="https://github.com/alihussnain1122"><img src="https://img.icons8.com/fluency/48/github.png"/></a>
-</p>
-
-<p align="center">
-  🔥 <b>“The future belongs to those who merge logic with imagination.”</b><br/>
-  <i>— Ali Hussnain</i>
+  <i>Open to building AI systems, automation platforms, and SaaS products that actually ship.</i>
 </p>
